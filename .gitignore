@@ -1,0 +1,10 @@
+/.mypy_cache
+*.pyc
+result
+__pycache__
+.direnv
+.devenv
+.venv
+.devenv.flake.nix
+.pre-commit-config.yaml
+db.sqlite3
